@@ -14,4 +14,4 @@ Hi! My name is Saul Baizman, and I'm an interactive designer, creative coder, de
 ## contact information
 
 + email: [hello@baizman.com](mailto:hello@baizman.com)
-+ phone: [617.863.0136](tel:16178630136)
++ phone: [617.650.2783](tel:16176502783)
