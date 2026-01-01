@@ -1,4 +1,4 @@
-Hi! My name is Saul Baizman, and I'm an interactive designer, creative coder, design educator, and consultant based in Somerville, Massachusetts.
+Hi! My name is Saul Baizman, and I'm an interactive designer, creative coder, and consultant based in Somerville, Massachusetts.
 
 ## websites
 
