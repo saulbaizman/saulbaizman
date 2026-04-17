@@ -9,7 +9,6 @@ Hi! My name is Saul Baizman, and I'm an interactive designer, creative coder, an
 
 + [professional work](https://github.com/baizmandesign)
 + [personal work](https://github.com/saulbaizman)
-+ [teaching](https://github.com/saulbaizman-teaching)
 
 ## contact information
 
